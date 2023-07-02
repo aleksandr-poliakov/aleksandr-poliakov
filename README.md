@@ -3,14 +3,61 @@
 <!--
 **aleksandr-poliakov/aleksandr-poliakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center"> Hello World!👋 My name is Oleksandr Poliakov.</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">I'm a Software Engineer 👩🏼‍💻 from Ukraine 🇺🇦</h2>
+
+<p> </p>
+<p> 🎓 Master's degree in automation and computer technologies.
+<p> 🌍 I'm currently based in Sibiu, Romania.
+<p> 🚀 I'm currently working as a Software Java Engineer.
+<p> 🤝 I’m looking to collaborate on interesting projects (part-time).
+<p> 🇬🇧 English and 🇩🇪 German speaker.
+
+<h3 align="left">Connect with me on LinkedIn:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/alex-poliakov96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-poliakov96/" height="30" width="40" /></a>
+</p>
+
+<h3> Backend Development </h3>
+<p>
+  <img src="https://img.shields.io/badge/JAVA-00BFFF?style=for-the-badge&logo=CoffeeScript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Spring-4682B4?style=for-the-badge&logo=Spring&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Mysql-00BFFF?style=for-the-badge&logo=MySql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Postgresql-00BFFF?style=for-the-badge&logo=postgreSQL&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Hibernate-4682B4?style=for-the-badge&logo=Hibernate&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JDBC-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JUNIT-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTTP SERVLETS-4682B4?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Gradle-00BFFF?style=for-the-badge&logo=Gradle&logoColor=white"" /> 
+    <img src="https://img.shields.io/badge/Apache Maven-00BFFF?style=for-the-badge&logo=Apache Maven&logoColor=white"" /> 
+</p>
+  
+<h3> Mobile Development </h3>
+<p> 
+<img src="https://img.shields.io/badge/Swift-00BFFF?style=for-the-badge&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Objective C-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UIKit-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Combine-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Core Data-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST API-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVP-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVVM-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CocoaPods-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID-00BFFF?style=for-the-badge"/>
+</p>
+
+<h3> Tools and Instruments </h3>
+<p> 
+  <img src="https://img.shields.io/badge/Git-00BFFF?style=for-the-badge&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-00BFFF?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-4682B4?style=for-the-badge&logo=Docker&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Charles-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-4682B4?style=for-the-badge&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-00BFFF?style=for-the-badge&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrum-4682B4?style=for-the-badge&logo=Scrum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-00BFFF?style=for-the-badge&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe XD-4682B4?style=for-the-badge&logo=Adobe XD&logoColor=white"/>
+</p>
+

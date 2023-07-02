@@ -55,6 +55,5 @@
   <img src="https://img.shields.io/badge/Jira-4682B4?style=for-the-badge&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scrum-00BFFF?style=for-the-badge&logo=Scrum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-4682B4?style=for-the-badge&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe XD-00BFFF?style=for-the-badge&logo=Adobe XD&logoColor=white"/>
 </p>
 

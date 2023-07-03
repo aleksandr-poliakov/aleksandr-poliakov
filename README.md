@@ -7,7 +7,6 @@
 <p> 🎓 Master's degree in automation and computer technologies.
 <p> 🌍 I'm currently based in Sibiu, Romania.
 <p> 🚀 I'm currently working as a Software Java Engineer.
-<p> 🤝 I’m open for part-time projects in back-end and mobile development.
 <p> 🇬🇧 English and 🇩🇪 German speaker.
 
 <h3 align="left">Connect with me on LinkedIn:</h3>

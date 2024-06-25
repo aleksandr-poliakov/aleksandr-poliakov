@@ -5,7 +5,7 @@
 
 <p> </p>
 <p> 🎓 Master's degree in automation and computer technologies.
-<p> 🌍 I'm currently based in Sibiu, Romania.
+<p> 🌍 I'm currently based in Vorarlberg, Austria
 <p> 🚀 I'm currently working as a Software Java Engineer.
 <p> 🇬🇧 English and 🇩🇪 German speaker.
 

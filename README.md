@@ -6,7 +6,7 @@
 <p> </p>
 <p> 🎓 Master's degree in automation and computer technologies.
 <p> 🌍 I'm currently based in Vorarlberg, Austria
-<p> 🚀 I'm currently working as a Software Java Engineer.
+<p> 🚀 I'm currently working as a Software Engineer.
 <p> 🇬🇧 English and 🇩🇪 German speaker.
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
